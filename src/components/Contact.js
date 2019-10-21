@@ -15,7 +15,7 @@ export default class Contact extends React.Component {
                             <input type="text" name="name" id="name" placeholder="Name" />
                         </div>
                         <div className="field half">
-                            <input type="email" name="email" id="email" placeholder="Email" />
+                            <input type="email" name="email" id="email" placeholder="Your Email" />
                         </div>
                         <div className="field">
                             <textarea name="message" id="message" placeholder="Message" />
